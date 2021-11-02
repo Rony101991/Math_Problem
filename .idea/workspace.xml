@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae974180-6f1b-4b91-95e4-1cb85dad5440" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AT&amp;T_Project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AT&amp;T_Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AT&amp;T_Project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/src/main/java/FacebookPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/src/main/resources/chromedriver_win32/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fb_Project/src/test/java/featureFile/login" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FireFoxTry/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FireFoxTry/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FireFoxTry/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FireFoxTry/drivers/geckodriver-v0.29.1-win32/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FireFoxTry/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FireFoxTry/src/main/java/facebook/MyFacebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkProject/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkProject/src/test/java/BaseCoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkProject/src/test/java/HomePageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavnPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavnPractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringPractice/src/ForLoop_math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringPractice/src/breakLoop/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/src/main/java/Game_Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvn-Project-New/src/main/java/TestNGgg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/src/test/java/tests1/BaseCoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Mentoring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/New_Mentoring/mathProblem/Use_For_loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/Find_Max_Min_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/Find_Second_Largest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/Make_Pyramid_If_Else_Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/Swape_Numbers_With_Third_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/Swape_Numbers_Without_Third_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/UseOfA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/Use_For_loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathProblem/pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/New_Solve_Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/out/production/New_Solve_Class/problem_Solve/Use_Of_A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/src/problem_Solve/IfElseCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/src/problem_Solve/MathLargeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/src/problem_Solve/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/src/problem_Solve/UseOfForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/src/problem_Solve/Use_A_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Solve_Class/src/problem_Solve/Use_Of_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Orange_HRM/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/practiceSelenium/CitiScroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/practiceSelenium/CvsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/practiceSelenium/Macys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/practiceSelenium/PracticeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/practiceSelenium/Practice_Add_To_Curt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaExam" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaExam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mentoring1" beforeDir="false" afterPath="$PROJECT_DIR$/../Mentoring1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mentoring2/out/production/Mentoring2/forLoops/TryForLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Mentoring2/out/production/Mentoring2/forLoops/TryForLoops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mentoring2/src/forLoops/TryForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mentoring2/src/forLoops/TryForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mentoring4/out/production/Mentoring4/differentTypeOfOverloading/ProblemSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Mentoring4/out/production/Mentoring4/differentTypeOfOverloading/ProblemSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mentoring4/src/differentTypeOfOverloading/ProblemSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mentoring4/src/differentTypeOfOverloading/ProblemSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mentoring4/src/differentTypeOfOverloading/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mentoring4/src/differentTypeOfOverloading/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MentoringPractice/out/production/MentoringPractice/breakLoop/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MentoringPractice/out/production/MentoringPractice/breakLoop/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MentoringPractice/src/breakLoop/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MentoringPractice/src/breakLoop/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPractice/out/production/SeleniumPractice/practiceSelenium/CitiBankSaving.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumPractice/out/production/SeleniumPractice/practiceSelenium/CitiBankSaving.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPractice/src/practiceSelenium/CitiBankSaving.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumPractice/src/practiceSelenium/CitiBankSaving.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yEmWuKtn2aRYZL5Y5ONp3uv9tM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Swape_Numbers_Without_Third_Variable">
+    <configuration name="Find_Second_Largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathProblem.Find_Second_Largest_Number" />
+      <module name="New_Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mathProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Make_Pyramid_If_Else_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathProblem.Make_Pyramid_If_Else_Loops" />
+      <module name="New_Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mathProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathProblem.ReverseString" />
+      <module name="New_Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mathProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swape_Numbers_With_Third_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathProblem.Swape_Numbers_With_Third_Variable" />
+      <module name="New_Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mathProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swape_Numbers_Without_Third_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathProblem.Swape_Numbers_Without_Third_Variable" />
+      <module name="New_Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mathProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Swape_Numbers_Without_Third_Variable" />
+        <item itemvalue="Application.Swape_Numbers_With_Third_Variable" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.Find_Second_Largest_Number" />
+        <item itemvalue="Application.Make_Pyramid_If_Else_Loops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae974180-6f1b-4b91-95e4-1cb85dad5440" name="Default Changelist" comment="" />
+      <created>1631825164745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631825164745</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
